@@ -5,10 +5,14 @@ My little tips the about Android Studio and others found in the web.
 
 ### Android log colors
 
-<img src="https://raw.githubusercontent.com/vilmarbfilho/Tips-Android-Studio/logcat.png" alt="logcat" />
+
+<img src="https://raw.githubusercontent.com/vilmarbfilho/Tips-Android-Studio/master/logcat.png" alt="logcat" />
 
 - `Select File > Settings > Choose Editor > Colors & Fonts > Android Logcat`
 
-Scale used:
+*Scale used:*
 
-<img src="https://raw.githubusercontent.com/vilmarbfilho/Tips-Android-Studio/scale_color.png" alt="scale" />
+<img src="https://raw.githubusercontent.com/vilmarbfilho/Tips-Android-Studio/master/scale_color.png" alt="scale" />
+
+
+Font: [Google Developer Experts](https://medium.com/google-developer-experts/configuring-android-studio-4aa4f54f1153#.4r9397ayz)
