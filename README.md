@@ -22,7 +22,8 @@ My little tips the about Android Studio and others found in the web.
 
 - `File > Settings > Choose Editor > General > Appearance > Tick on Show line numbers`
 
-References: 
+[References]
+
 [Google Developer Experts](https://medium.com/google-developer-experts/configuring-android-studio-4aa4f54f1153#.4r9397ayz)
 
 [Maria Neumayer](https://medium.com/a-problem-like-maria/bringing-more-colour-to-android-studio-18bb45017106)
