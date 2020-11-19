@@ -3,7 +3,7 @@
 My preferences when using Android Studio.
 
 
-#### Styles
+### Styles
 
 ##### Android log colors
 
@@ -24,7 +24,7 @@ My preferences when using Android Studio.
 
 - `File > Settings > Choose Editor > General > Appearance > Tick on Show line numbers`
 
-#### Plugins
+### Plugins
 
 ##### Rainbow Brackets
 
@@ -44,7 +44,7 @@ See [here](https://plugins.jetbrains.com/plugin/7380-adb-idea)
 
 See [here](https://plugins.jetbrains.com/plugin/12173-clear-cache)
 
-#### Tools
+### Tools
 
 ##### scrcpy
 
@@ -52,7 +52,7 @@ See [here](https://plugins.jetbrains.com/plugin/12173-clear-cache)
 
 See [here](https://github.com/Genymobile/scrcpy)
 
-#### References
+### References
 
 [Google Developer Experts](https://medium.com/google-developer-experts/configuring-android-studio-4aa4f54f1153#.4r9397ayz)
 
